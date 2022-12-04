@@ -3,7 +3,6 @@ Created Date: Saturday, December 3rd 2022, 4:58:54 pm
 Author: Domagoj Žalac
 '''
 
-import sys
 import string
 
 file = open("input", "r")

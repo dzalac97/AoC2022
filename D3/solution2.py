@@ -3,7 +3,6 @@ Created Date: Saturday, December 3rd 2022, 5:27:06 pm
 Author: Domagoj Žalac
 '''
 
-import sys
 import string
 from itertools import islice
 

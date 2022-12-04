@@ -3,8 +3,6 @@ Created Date: Thursday, December 1st 2022, 1:51:36 pm
 Author: Domagoj Žalac
 '''
 
-import sys
-
 file = open("input", "r")
 elves = [0]
 elfIdx = 0

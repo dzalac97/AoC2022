@@ -3,8 +3,6 @@ Created Date: Friday, December 2nd 2022, 12:56:24 pm
 Author: Domagoj Žalac
 '''
 
-import sys
-
 def decode(line):
     d1, d2 = line.split()
     return p1[d1], p2[d2]
