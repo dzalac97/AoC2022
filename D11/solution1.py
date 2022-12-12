@@ -1,3 +1,8 @@
+'''
+Created Date: Monday, December 12th 2022, 12:50:05 pm
+Author: Domagoj Žalac
+'''
+
 import operator
 import itertools as it
 from math import prod
