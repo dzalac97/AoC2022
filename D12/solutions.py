@@ -37,4 +37,3 @@ with open('input', 'r') as file:
     grid[END[0]][END[1]] = 'z'
     print('1st star:', len(bfs(grid, START)) - 1)
     print('2nd star:', len(bfs(grid, END, True)) - 1)
-
